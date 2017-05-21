@@ -1,3 +1,7 @@
+# Preamble
+
+The original FB Duckling project has been deprecated as described below. The replacement is a Haskell implementation. I have forked this in order to preserve, enhance, and use the original Clojure version.
+
 # Deprecation notice
 
 As of May 1st, 2017 we're deprecating this repository in favor of [the new Duckling](https://github.com/facebookincubator/duckling). See our [blog post announcement](https://wit.ai/blog/2017/05/01/new-duckling).
